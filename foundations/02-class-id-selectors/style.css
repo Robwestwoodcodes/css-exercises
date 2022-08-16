@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'dejavu_serifbook';
+    src: url('DejaVuSerif-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    }
+    
+    .cooler {
+    font-size: 24px;
+    }
+    
+    .p  {
+    background-color: rgb(255,153,153);
+    font-family: verdana, 'dejavu_serifbook', sans-serif;
+    }
+    
+    #first {
+    color: #0000FF;
+    font-size: 36px;
+    }
+    
+    #second {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+    }
